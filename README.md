@@ -7,7 +7,7 @@ A little exercise to get started with the specification phase of the software de
 Zeyue Xu(zx1612): https://github.com/zeyuexu123
 Samay Dhawan
 Zhihui C
-Aryaman N
+Aryaman Nagpal (an3782): https://github.com/aryamann04 
 Mar S
 
 ## Stakeholders
