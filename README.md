@@ -6,7 +6,7 @@ A little exercise to get started with the specification phase of the software de
 *TODO*
 Zeyue Xu(zx1612): https://github.com/zeyuexu123
 Samay Dhawan
-Zhihui C
+Zhihui Chen(zc3716): https://github.com/Zhi-Hui-C
 Aryaman N
 Mar S
 
