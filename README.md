@@ -18,7 +18,7 @@ See instructions. Delete this line and replace with the name(s) of the stakehold
 
 ## Product Vision Statement
 
-See instructions. Delete this line and place your Product Vision Statement here.
+Our app aims to help students, locals, and visitors easily discover, track, and evaluate food trucks around Washington Square by providing accurate locations, photos, menus and community-driven ratings in one centralized platform.
 
 ## User Requirements
 
