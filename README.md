@@ -22,9 +22,7 @@ Our app aims to help students, locals, and visitors easily discover, track, and 
 
 ## User Requirements
 
-See instructions. Delete this line and place a list of your User Stories here.
-
-## 1. End-Users (Students, Locals, Visitors)
+### 1. End-Users (Students, Locals, Visitors)
 - As an end-user, I want to see nearby food trucks on a map so that I can quickly find food near me.
 - As an end-user, I want to search for food trucks by name so that I can find my favorite vendors.
 - As an end-user, I want to filter trucks by cuisine so that I can find food I like.
@@ -41,7 +39,7 @@ See instructions. Delete this line and place a list of your User Stories here.
 - As an end-user, I want to create an account so that my reviews are saved.
 - As an end-user, I want to edit or delete my reviews so that I can fix mistakes.
 
-## 2. Vendor Users (Food Truck Owners)
+### 2. Vendor Users (Food Truck Owners)
 
 - As a vendor, I want to create a business profile so that customers can find my truck.
 - As a vendor, I want to update my location in real time so that users know where I am.
@@ -54,7 +52,7 @@ See instructions. Delete this line and place a list of your User Stories here.
 - As a vendor, I want to respond to reviews so that I can communicate with customers.
 - As a vendor, I want to view my ratings so that I can improve my service.
 
-## 3. Administrators (App owner, development team)
+### 3. Administrators (App owner, development team)
 
 - As an administrator, I want to manage user accounts so that the system stays secure.
 - As an administrator, I want to approve new vendor registrations so that only valid trucks join.
