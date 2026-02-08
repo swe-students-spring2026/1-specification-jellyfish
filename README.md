@@ -5,7 +5,7 @@ A little exercise to get started with the specification phase of the software de
 ## Team members
 *TODO*
 Zeyue Xu(zx1612): https://github.com/zeyuexu123
-Samay Dhawan
+Samay Dhawan: https://github.com/samaythe1
 Zhihui Chen(zc3716): https://github.com/Zhi-Hui-C
 Aryaman Nagpal (an3782): https://github.com/aryamann04 
 Mar S
