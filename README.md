@@ -14,7 +14,35 @@ Aryaman Nagpal (an3782): https://github.com/aryamann04
 
 ## Stakeholders
 
-See instructions. Delete this line and replace with the name(s) of the stakeholder(s) you interviewed and lists showing their goals/needs, and problems/frustrations.
+### End-User (NYU Student)
+The end-user is a college student and local resident. The user occasionally brings friends and family that do not reside in New York City to Washington Square. They value convenience, speed, and affordability, and often make food decisions spontaneously between classes or work sessions. Because food trucks are mobile by nature, the user struggles to reliably find accurate and up-to-date information about what options are nearby and available at any given moment, especially later at night. 
+
+#### Goals and Needs
+- **Quickly discover nearby food options.** The user wants a fast, location-based way to see which food trucks are currently operating and serving near them without needing to walk around or search multiple different platforms. This is especially important when they have limited time between classes and/or events. 
+- **Make informed decisions before committing time or money.** The user needs access to menus and prices (and ideally photos and reviews) so that they can judge whether a food truck is worth visiting quickly. 
+- **Avoid unnecessary delays.** The user needs accurate information about opening hours, current status, and busy times (e.g. line length or wait time) so that they do not arrive at a closed truck or face unexpectedly long lines. 
+- **Personalized food discovery.** The user wants to be able to filter by cuisine type, dietary preferences, ratings, or favorites so that the app surfaces food options that match their tastes rather than overwhelming them with arbitrary choices. 
+
+#### Problems and Frustrations
+- **Unreliable and outdated information.** The user notes that food trucks frequently move or change hours, so existing platforms often list incorrect locations or schedules, leading to wasted time and frustration. 
+- **Fragmented sources of information.** The user indicates that a lot of the time, reviews may be on one platform while the menu and prices are on another, forcing the user to search several different platforms just to decide where to go. 
+- **Uncertainty about food quality.** Without consistent reviews or photos, the user feels like choosing a food truck is a gamble, which discourages them from trying new food trucks. 
+- **Lack of situational awareness when choosing a truck.** Even when the user knows the location and menu of a food truck, they are unaware of the current wait times and popularity. This leads to frustration when they arrive to find long lines or overcrowding especially when in between classes. 
+
+### Food-Truck Vendor 
+This stakeholder is a vendor of a food truck that operates near Washington Square and relies on foot traffic from students, locals, and tourists. They manage many responsibilities simultaneously (e.g. food preparation, taking orders, logistics, etc.) which leaves little time for maintaining a strong online presence. Because locations and hours can change very frequently, the vendor feels that it is difficult to communicate accurate information to their potential customers. Their primary needs are visibility, efficiency, and control over how their business is represented to the public. 
+
+#### Goals and Needs 
+- **Increase visibility to nearby customers.** The vendor wants customers in the immediate area to easily find their truck when it is open without relying solely on social media or word of mouth. 
+- **Simple and fast information updates.** The vendor needs an easy way to update location, hours, menu items, and prices on the fly. These updates ideally should require minimal effort. 
+- **Attract and retain new customers.** The vendor wants to showcase photos, post daily specials/deals, and highlight positive reviews in order to draw in traffic. 
+- **Manage reputation and customer feedback.** The vendor needs the ability to view and respond to reviews so that they can address concerns and provide strong customer service. 
+
+#### Problems and Frustrations
+- **Customers arriving based on outdated information.** The vendor is frustrated when customers complain or leave negative reviews because the truck moved locations or closed earlier than expected. 
+- **Fragmented online platforms.** Maintaining accurate information on multiple platforms (e.g. Instagram, Yelp, Google Maps etc.) is time consuming and inevitably leads to inaccurate/inconsistent information across platforms. 
+- **Limited control over public perception.** The vendor feels discouraged when outdated or unfair reviews continue to affect their reputation without a clear way to respond or correct information. 
+- **Time constraints during operating hours.** The vendor has very little time to manage complex digital tools while actively taking and serving orders, which makes overly complicated and unintuitive platforms highly impractical. 
 
 ## Product Vision Statement
 
