@@ -97,13 +97,12 @@ Our app aims to help students, locals, and visitors easily discover, track, and 
 
 ## Activity Diagrams
 
-![<# alt text #>](../Container-5.png "Container-5.png")
-![<# alt text #>](../Container-4.png "Container-4.png")
-![<# alt text #>](../Container-3.png "Container-3.png")
-![<# alt text #>](../Container-2.png "Container-2.png")
-![<# alt text #>](../Container-1.png "Container-1.png")
-![<# alt text #>](../Container.png "Container.png")
-
+![Container 5](images/Container-5.png) 
+![Container 4](images/Container-4.png) 
+![Container 3](images/Container-3.png) 
+![Container 2](images/Container-2.png) 
+![Container 1](images/Container-1.png) 
+![Container](images/Container.png)
 
 ## Clickable Prototype
 
