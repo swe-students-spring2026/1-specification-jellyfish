@@ -97,7 +97,13 @@ Our app aims to help students, locals, and visitors easily discover, track, and 
 
 ## Activity Diagrams
 
-See instructions. Delete this line and place images of your UML Activity diagrams here.
+![<# alt text #>](../Container-5.png "Container-5.png")
+![<# alt text #>](../Container-4.png "Container-4.png")
+![<# alt text #>](../Container-3.png "Container-3.png")
+![<# alt text #>](../Container-2.png "Container-2.png")
+![<# alt text #>](../Container-1.png "Container-1.png")
+![<# alt text #>](../Container.png "Container.png")
+
 
 ## Clickable Prototype
 
