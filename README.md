@@ -105,6 +105,7 @@ Our app aims to help students, locals, and visitors easily discover, track, and 
 ![Container](images/Container.png)
 
 ## Clickable Prototype
+[Wireframe Link](https://www.figma.com/design/ZbB6kPetj37QsgD1M8mNsi/Jellyfish---Prototype---Wireframe?node-id=101-7&t=Ih8sjWmsLxW2MOXJ-1)
 
 [Raw Prototype Link](https://www.figma.com/design/ZbB6kPetj37QsgD1M8mNsi/Jellyfish---Prototype?node-id=0-1&p=f&t=Y71e1fDArR8oejeZ-0)
 
