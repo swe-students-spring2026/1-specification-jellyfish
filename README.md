@@ -106,4 +106,4 @@ Our app aims to help students, locals, and visitors easily discover, track, and 
 
 ## Clickable Prototype
 
-See instructions. Delete this line and place a publicly-accessible link to your clickable prototype here.
+[Prototype Link](https://www.figma.com/design/ZbB6kPetj37QsgD1M8mNsi/Jellyfish---Prototype?node-id=0-1&p=f&t=Y71e1fDArR8oejeZ-0)
